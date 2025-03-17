@@ -1,4 +1,4 @@
-const API_KEY = 'YOUR_CRICAPI_KEY'; // Replace with your CricAPI key
+const API_KEY = '865e0739-b8b8-4476-aa4a-b64368a82cb8'; // Replace with your CricAPI key
 const API_URL = `https://api.cricapi.com/v1/currentMatches?apikey=${API_KEY}`;
 
 const scoresElement = document.getElementById('scores');
